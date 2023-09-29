@@ -1,6 +1,8 @@
-# emmision
+# BOLTS - Carbon Emission Tracking & Comparison App
 
-A new Flutter project.
+<p>A new Flutter project =====>>> A Gamified APP nameds as BOLTS.</p>
+<p>This app helps you keep track of your carbon emmission and compare carbon emission of you and your friends.</p>
+<p>It includes gamified features such as point based Leaderboard System.</p>
 
 ## Getting Started
 
